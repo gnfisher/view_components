@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## 0.1.6
+
+### Patch Changes
+
+- [#1901](https://github.com/primer/view_components/pull/1901) [`dcab49f3`](https://github.com/primer/view_components/commit/dcab49f3ce542d62d1f819d18355ae8e1ed3ce79) Thanks [@radglob](https://github.com/radglob)! - Add width parameter to autocomplete.
+
+* [#1933](https://github.com/primer/view_components/pull/1933) [`92bd7848`](https://github.com/primer/view_components/commit/92bd7848db11384ed08a0094e20c952d682ac777) Thanks [@simurai](https://github.com/simurai)! - Use inline for Buttons
+
 ## 0.1.5
 
 ### Patch Changes
